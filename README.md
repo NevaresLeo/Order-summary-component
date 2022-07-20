@@ -1,1 +1,1 @@
-# Product-preview-card-component
+# Order summary component
